@@ -14,6 +14,7 @@ public class HelloWorld {
         HelloWorld obj = new HelloWorld();
         int result = obj.addition(total,y);
         System.out.println("The result is " + result);
+        System.out.println("Proba za drugi commit!");
 
     }
 
